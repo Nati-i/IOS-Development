@@ -12,3 +12,6 @@ Repo for learning swift as a hobby. Following course on Udemy -> https://www.ude
 
 ## Egg Timer
 -> An app to determine the amount of time needed to boil an egg to a particular liking with progress and alarm functionality
+
+## Quizzer App 
+-> An app that provides quizes interactively 
